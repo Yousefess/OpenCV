@@ -10,3 +10,8 @@
 
     - ***03 Color spaces***
         - [04 Color spaces](https://github.com/Yousefess/OpenCV/blob/main/01%20Getting%20Started%20with%20OpenCV%20in%20Python/03%20Color%20spaces/04%20Color%20spaces.ipynb)
+
+    - ***04 Bitwise operations and PNG image with alpha channel***
+        - [05 Alpha channel](https://github.com/Yousefess/OpenCV/blob/main/01%20Getting%20Started%20with%20OpenCV%20in%20Python/04%20Bitwise%20operations%20and%20PNG%20image%20with%20alpha%20channel/05%20Alpha%20channel.ipynb)
+
+        - [06 Bitwise operations and masking](https://github.com/Yousefess/OpenCV/blob/main/01%20Getting%20Started%20with%20OpenCV%20in%20Python/04%20Bitwise%20operations%20and%20PNG%20image%20with%20alpha%20channel/06%20Bitwise%20operations%20and%20masking.ipynb)
